@@ -1,13 +1,12 @@
-import Ban from "./components/Ban";
-import Card from "./components/Card";
-import Usate from "./components/Usate";
+import Filter from "./components/Filter";
 
 const App = () => {
   return (
     <>
-      <Card />
+      {/* <Card />
       <Usate />
-      <Ban />
+      <Ban /> */}
+      <Filter />
     </>
   );
 };
